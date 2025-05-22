@@ -1,6 +1,8 @@
 # CAL AI
 
 **Demo by Kashi Estudillo**
+estudillokashi@gmail.com
+
 
 ## Development Time
 
