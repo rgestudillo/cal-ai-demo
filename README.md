@@ -16,10 +16,7 @@ The Kotlin SDK is not available for Gemini model + structured output, so we use 
 
 ## Demo
 
-<video width="300" autoplay loop muted>
-  <source src="demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+![CAL AI Demo](demo.gif)
 
 ## Development Time
 
