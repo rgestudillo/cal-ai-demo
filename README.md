@@ -2,6 +2,13 @@
 
 **Demo by Kashi Estudillo**
 
+## Development Time
+
+**2 hours total:**
+* Frontend ✅
+* Nutrition Analysis AI ✅
+
+
 ## Setup
 
 In `local.properties` add:
@@ -19,9 +26,3 @@ The Kotlin SDK is not available for Gemini model + structured output, so we use 
 **📱 Download APK:** https://github.com/rgestudillo/cal-ai-demo/releases/tag/demo
 
 ![CAL AI Demo](demo.gif)
-
-## Development Time
-
-**2 hours total:**
-* Frontend ✅
-* Nutrition Analysis AI ✅
