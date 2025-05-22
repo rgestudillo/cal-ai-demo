@@ -16,6 +16,8 @@ The Kotlin SDK is not available for Gemini model + structured output, so we use 
 
 ## Demo
 
+**📱 Download APK:** https://github.com/rgestudillo/cal-ai-demo/releases/tag/demo
+
 ![CAL AI Demo](demo.gif)
 
 ## Development Time
